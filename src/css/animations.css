@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+/*
+.sub-titulo {
+    box-shadow: .6em 0 0 black;
+    margin: 1rem 1rem;
+    width: 23ch;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: caret .5s step-end infinite alternate, type 4s steps(23, end);
+}
+
+@keyframes type {
+    
+    0% {
+        width: 0;
+    }
+
+}
+
+@keyframes caret {
+    
+    50% {
+        box-shadow: .6em 10 0 transparent;
+    }
+} 
+*/
+
+.lk-linkedin:hover {
+    transform: scale(01.1);
+    transition: all 0.5s;
+}
+
+.lk-github:hover {
+    transform: scale(01.1);
+    transition: all 0.5s;
+}
+
+.lk-email:hover {
+    transform: scale(01.1);
+    transition: all 0.5s;
+}
+
+.lk-instagram:hover {
+    transform: scale(01.1);
+    transition: all 0.5s;
+}
+
+.lk-twitter:hover {
+    transform: scale(01.1);
+    transition: all 0.5s;
+}

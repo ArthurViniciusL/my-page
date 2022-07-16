@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+body {
+    background-color: #ffffff;
+}
+
+#cabecalho {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    text-align: center;
+    color: #000000;
+}
+
+.titulo {
+    font-size: 32px;
+}
+
+.sub-titulo {
+    font-size: 20px;    
+}
+
+.image-me {
+    height: 200px;
+    width: 200px;
+}
+
+/*LINKS para contato*/
+
+.lk-linkedin {
+    position: absolute;
+    left: 260px;
+    top: 340px;
+}
+
+.lk-github {
+    position: absolute;
+    left: 590px;
+    top: 340px;
+    
+}
+
+.lk-email {
+    position: absolute;
+    left: 920px;
+    top: 340px;
+}
+
+.lk-instagram {
+    position: absolute;
+    left: 425px;
+    top: 520px;
+}
+
+.lk-twitter {
+    position: absolute;
+    left: 755px;
+    top: 520px;
+}
